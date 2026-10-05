@@ -294,7 +294,7 @@ License information will be added when the project license is finalized.
 
 👨‍💻 Author
 
-Phanuel Gum
+Phanuel Agum
 
 GitHub: @phanuelagum96-collab
 
