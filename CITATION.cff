@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: "UniVault"
+message: "If you use UniVault in your research, project, or educational work, please cite this repository."
+type: software
+
+authors:
+
+family-names: "Gum"
+given-names: "Phanuel"
+affiliation: "UniVault"
+
+repository-code: "https://github.com/phanuelagum96-collab/UniVault"
+
+abstract: "UniVault is a student learning platform for discovering, sharing, and accessing university learning resources such as lecture notes, past papers, tutorials, and educational materials."
+
+keywords:
+
+"education"
+
+"e-learning"
+
+"student learning"
+
+"university"
+
+"learning materials"
+
+"Next.js"
+
+"FastAPI"
+
+"machine learning"
+
+license: "Apache"
