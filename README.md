@@ -1,301 +1,437 @@
-UniVault 🎓
 
-UniVault is a student learning platform that helps university students discover, share, and access educational resources such as lecture notes, past papers, tutorials, and learning materials.
 
-🚀 Features
+<a><img src="https://i.imgur.com/LyHic3i.gif"/></a>
 
-🔐 Student registration and authentication
+<h1 align="center">🎓 𝐔𝐍𝐈𝐕𝐀𝐔𝐋𝐓</h1>
 
-📚 Upload and browse learning materials
+<p align="center">
+  <strong>Learn. Share. Discover.</strong>
+</p>
 
-🔎 Search and filter resources
+<p align="center">
+  A modern student learning platform for discovering, sharing, and accessing university educational resources.
+</p>
 
-📖 Course-based materials
+<p align="center">
+  <a href="https://github.com/phanuelagum96-collab/UniVault">
+    <img src="https://img.shields.io/badge/GITHUB-UNIVAULT-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</p>
 
-🔖 Bookmark useful resources
+<p align="center">
+  <a href="https://github.com/phanuelagum96-collab/UniVault/stargazers">
+    <img src="https://img.shields.io/github/stars/phanuelagum96-collab/UniVault?style=social" alt="Stars">
+  </a>
+  <a href="https://github.com/phanuelagum96-collab/UniVault/network/members">
+    <img src="https://img.shields.io/github/forks/phanuelagum96-collab/UniVault?style=social" alt="Forks">
+  </a>
+  <a href="https://github.com/phanuelagum96-collab/UniVault/issues">
+    <img src="https://img.shields.io/github/issues/phanuelagum96-collab/UniVault?style=social" alt="Issues">
+  </a>
+</p>
 
-⭐ Rate learning materials
+<a><img src="https://i.imgur.com/LyHic3i.gif"/></a>
 
-🤖 Personalized recommendations
+## ✨ 𝐀𝐁𝐎𝐔𝐓 𝐔𝐍𝐈𝐕𝐀𝐔𝐋𝐓
 
-👤 Student profiles
+**UniVault** is a student-focused learning platform designed to make university resources easier to **discover, organize, share, and access**.
 
-🛠️ Admin management
+Students can upload and explore:
 
-📁 File uploads and storage
+- 📚 Lecture notes
+- 📝 Past examination papers
+- 📖 Tutorials
+- 📑 Study guides
+- 🎓 Course materials
+- 📂 Educational resources
 
-🧠 Machine-learning-based recommendations and classification
+UniVault also uses **machine learning** to provide personalized recommendations and classify educational materials.
 
-🛠️ Technology Stack
-Frontend
+<a><img src="https://i.imgur.com/LyHic3i.gif"/></a>
 
-Next.js
+## 🚀 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒
 
-React
+<details>
+<summary>📚 <b>Learning Resources</b></summary>
 
-TypeScript
+- Upload educational materials
+- Browse learning resources
+- Search and filter materials
+- Course-based materials
+- Download resources
+- Bookmark useful materials
+- File uploads and storage
 
-Tailwind CSS
+</details>
 
-Backend
+<details>
+<summary>⭐ <b>Student Features</b></summary>
 
-Python
+- Student registration and authentication
+- Student profiles
+- Rate learning materials
+- Personalized recommendations
+- Resource discovery
+- Student-focused resource sharing
 
-FastAPI
+</details>
 
-SQLAlchemy
+<details>
+<summary>🤖 <b>Machine Learning</b></summary>
 
-Alembic
+- Text preprocessing
+- Dataset preparation
+- Content-based recommendations
+- Educational material classification
+- Model training
+- Model evaluation
+- Model inference
 
-Database
+</details>
 
-The backend is designed to work with a relational database.
+<details>
+<summary>🛠️ <b>Administration</b></summary>
 
-Machine Learning
+- Admin management
+- Resource moderation
+- User management
+- Platform administration
+- File management
 
-Python
+</details>
 
-Content-based recommendation
+<a><img src="https://i.imgur.com/LyHic3i.gif"/></a>
 
-Material classification
+## 🧰 𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘 𝐒𝐓𝐀𝐂𝐊
 
-Text preprocessing
+### 🎨 Frontend
 
-DevOps
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+</p>
 
-Docker
+### ⚙️ Backend
 
-Docker Compose
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white">
+<img src="https://img.shields.io/badge/Alembic-6BA81E?style=flat-square">
+</p>
 
-📁 Project Structure
-UniVault/
-│
-├── README.md
-├── .gitignore
-├── docker-compose.yml
-│
-├── frontend/                 # Next.js + Tailwind CSS
-│   ├── public/
-│   └── src/
-│       ├── app/
-│       ├── components/
-│       ├── lib/
-│       ├── hooks/
-│       ├── types/
-│       └── config/
-│
-├── backend/                  # Python + FastAPI
-│   ├── app/
-│   │   ├── core/
-│   │   ├── database/
-│   │   ├── models/
-│   │   ├── schemas/
-│   │   ├── routers/
-│   │   ├── services/
-│   │   └── ml/
-│   ├── migrations/
-│   └── tests/
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── storage/
-│   └── uploads/
-│
-└── docs/
-    ├── architecture.md
-    ├── database_schema.md
-    └── machine_learning.md
+### 🧠 Machine Learning
 
-⚙️ Getting Started
-Prerequisites
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Content--Based_Recommendation-8A2BE2?style=flat-square">
+<img src="https://img.shields.io/badge/Text_Preprocessing-FF9800?style=flat-square">
+<img src="https://img.shields.io/badge/Classification-4CAF50?style=flat-square">
+</p>
+
+### 🐳 DevOps
+
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white">
+</p>
+
+<a><img src="https://i.imgur.com/LyHic3i.gif"/></a>
+
+## 📁 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐒𝐓𝐑𝐔𝐂𝐓𝐔𝐑𝐄
+```
+
+UniVault/ │ ├── README.md ├── .gitignore ├── docker-compose.yml │ ├── frontend/ # Next.js + Tailwind CSS │ ├── public/ │ └── src/ │ ├── app/ │ ├── components/ │ ├── lib/ │ ├── hooks/ │ ├── types/ │ └── config/ │ ├── backend/ # Python + FastAPI │ ├── app/ │ │ ├── core/ │ │ ├── database/ │ │ ├── models/ │ │ ├── schemas/ │ │ ├── routers/ │ │ ├── services/ │ │ └── ml/ │ ├── migrations/ │ └── tests/ │ ├── data/ │ ├── raw/ │ └── processed/ │ ├── storage/ │ └── uploads/ │ └── docs/ ├── architecture.md ├── database_schema.md └── machine_learning.md
+
+```
+
+<a><img src="https://i.imgur.com/LyHic3i.gif"/></a>
+
+## ⚙️ 𝟏. 𝐆𝐄𝐓𝐓𝐈𝐍𝐆 𝐒𝐓𝐀𝐑𝐓𝐄𝐃
+
+### 📋 Prerequisites
 
 Make sure you have installed:
 
-Node.js
+- **Node.js**
+- **npm**
+- **Python 3.10+**
+- **Docker**
+- **Git**
 
-npm
+### 📥 Clone the Repository
+```
 
-Python 3.10+
+git clone https://github.com/phanuelagum96-collab/UniVault.git cd UniVault
 
-Docker
+```
 
-Git
+<a><img src="https://i.imgur.com/LyHic3i.gif"/></a>
 
-Clone the Repository
-git clone https://github.com/phanuelagum96-collab/UniVault.git
-cd UniVault
+## 💻 𝟐. 𝐅𝐑𝐎𝐍𝐓𝐄𝐍𝐃 𝐒𝐄𝐓𝐔𝐏
 
-💻 Frontend Setup
+<details>
+<summary>𝗧𝗔𝗣 𝗧𝗢 𝗢𝗣𝗘𝗡</summary>
 
-Go to the frontend directory:
+### Navigate to the frontend
+```
 
 cd frontend
 
+```
 
-Install dependencies:
+### Install dependencies
+```
 
 npm install
 
+```
 
-Create your environment file:
+### Create your environment file
+```
 
 cp .env.local.example .env.local
 
+```
 
-Start the development server:
+### Start the development server
+```
 
 npm run dev
 
+```
 
-The frontend will be available at:
+Frontend:
+```
 
 http://localhost:3000
 
-🐍 Backend Setup
+```
 
-Open a new terminal and go to the backend:
+</details>
+
+<a><img src="https://i.imgur.com/LyHic3i.gif"/></a>
+
+## 🐍 𝟑. 𝐁𝐀𝐂𝐊𝐄𝐍𝐃 𝐒𝐄𝐓𝐔𝐏
+
+<details>
+<summary>𝗧𝗔𝗣 𝗧𝗢 𝗢𝗣𝗘𝗡</summary>
+
+### Navigate to the backend
+```
 
 cd backend
 
+```
 
-Create a virtual environment:
+### Create a virtual environment
+```
 
 python -m venv venv
 
+```
 
-Activate it on Linux/macOS:
+### Activate the virtual environment
+
+**Linux / macOS**
+```
 
 source venv/bin/activate
 
+```
 
-On Windows:
+**Windows**
+```
 
-venv\Scripts\activate
+venv\\Scripts\\activate
 
+```
 
-Install dependencies:
+### Install dependencies
+```
 
 pip install -r requirements.txt
 
+```
 
-Create your environment file:
+### Create your environment file
+```
 
 cp .env.example .env
 
+```
 
-Start the FastAPI server:
+### Start the FastAPI server
+```
 
 uvicorn app.main:app --reload
 
+```
 
-The API will be available at:
+API:
+```
 
 http://localhost:8000
 
+```
 
-API documentation:
+API Documentation:
+```
 
 http://localhost:8000/docs
 
-🐳 Running with Docker
+```
 
-You can run the project using Docker Compose:
+</details>
+
+<a><img src="https://i.imgur.com/LyHic3i.gif"/></a>
+
+## 🐳 𝟒. 𝐑𝐔𝐍𝐍𝐈𝐍𝐆 𝐖𝐈𝐓𝐇 𝐃𝐎𝐂𝐊𝐄𝐑
+
+<details>
+<summary>𝗧𝗔𝗣 𝗧𝗢 𝗢𝗣𝗘𝗡</summary>
+
+Build and start the complete application:
+```
 
 docker compose up --build
 
+```
 
-To stop the containers:
+Stop the containers:
+```
 
 docker compose down
 
-🧠 Machine Learning
+```
 
-UniVault includes machine-learning functionality for improving resource discovery and recommendations.
+</details>
 
-The ML system includes:
+<a><img src="https://i.imgur.com/LyHic3i.gif"/></a>
 
-Text preprocessing
+## 🧠 𝟓. 𝐌𝐀𝐂𝐇𝐈𝐍𝐄 𝐋𝐄𝐀𝐑𝐍𝐈𝐍𝐆
 
-Dataset preparation
+UniVault includes a machine-learning pipeline designed to improve educational resource discovery and recommendations.
 
-Content-based recommendations
+### 🔬 ML Pipeline
 
-Educational material classification
+- 🧹 Text preprocessing
+- 📊 Dataset preparation
+- 🏷️ Material classification
+- 🎯 Content-based recommendations
+- 🏋️ Model training
+- 📈 Model evaluation
+- 🔮 Model inference
 
-Model training
-
-Model evaluation
-
-Model inference
-
-ML-related code is located in:
+ML-related code:
+```
 
 backend/app/ml/
 
-📚 Documentation
+```
 
-Additional technical documentation is available in the docs/ directory:
+<a><img src="https://i.imgur.com/LyHic3i.gif"/></a>
 
-architecture.md — System architecture
+## 📚 𝟔. 𝐃𝐎𝐂𝐔𝐌𝐄𝐍𝐓𝐀𝐓𝐈𝐎𝐍
 
-database_schema.md — Database design
+Additional technical documentation is available in the `docs/` directory.
+```
 
-machine_learning.md — Machine-learning system
+| File | Description |
+| --- | --- |
+| `architecture.md` | 🏗️ System architecture |
+| `database_schema.md` | 🗄️ Database design |
+| `machine_learning.md` | 🧠 Machine-learning system |
 
-🤝 Contributing
+\<a\>\<img src="https://i.imgur.com/LyHic3i.gif"/\>\</a\>
 
-Contributions are welcome!
+## 🤝 𝟕. 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐍𝐆
 
-Please read CONTRIBUTING.md before contributing to the project.
+Contributions are welcome! 🎉
 
-📜 Code of Conduct
+\<details\> \<summary\>𝗛𝗢𝗪 𝗧𝗢 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗘\</summary\>
 
-Please read CODE_OF_CONDUCT.md to understand the standards expected from contributors and community members.
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Test your changes
+5. Commit your changes
+6. Push your branch
+7. Open a Pull Request
 
-🔐 Security
+Please read `CONTRIBUTING.md` before contributing.
 
-Do not commit sensitive information such as:
+\</details\>
 
-Passwords
+\<a\>\<img src="https://i.imgur.com/LyHic3i.gif"/\>\</a\>
 
-API keys
+## 📜 𝟖. 𝐂𝐎𝐃𝐄 𝐎𝐅 𝐂𝐎𝐍𝐃𝐔𝐂𝐓
 
-Database credentials
+Please read `CODE_OF_CONDUCT.md` to understand the standards expected from contributors and members of the UniVault community.
 
-Secret tokens
+\<a\>\<img src="https://i.imgur.com/LyHic3i.gif"/\>\</a\>
 
-.env files containing secrets
+## 🔐 𝟗. 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘
 
-Use the provided .env.example files as templates for environment configuration.
+**Never commit sensitive information to GitHub.**
 
-🎓 Academic Integrity
+Do not commit:
 
-UniVault is designed to support learning and responsible academic collaboration.
+- 🔑 Passwords
+- 🔐 API keys
+- 🗄️ Database credentials
+- 🎟️ Secret tokens
+- 📄 `.env` files containing secrets
+
+Use the provided `.env.example` files as templates.
+
+\<a\>\<img src="https://i.imgur.com/LyHic3i.gif"/\>\</a\>
+
+## 🎓 𝟏𝟎. 𝐀𝐂𝐀𝐃𝐄𝐌𝐈𝐂 𝐈𝐍𝐓𝐄𝐆𝐑𝐈𝐓𝐘
+
+UniVault is designed to support **learning and responsible academic collaboration**.
 
 Users should respect:
 
-Copyright
+- ©️ Copyright
+- 💡 Intellectual property
+- 🏛️ University policies
+- 🎓 Academic integrity
 
-Intellectual property
+> ⚠️ Only upload educational materials that you have permission to share.
 
-University policies
+\<a\>\<img src="https://i.imgur.com/LyHic3i.gif"/\>\</a\>
 
-Academic integrity
+## 📄 𝟏𝟏. 𝐋𝐈𝐂𝐄𝐍𝐒𝐄
 
-Only upload educational materials that you have permission to share.
+UniVault is currently under development.
 
-📄 License
+License information will be added when the project's license is finalized.
 
-This project is currently under development.
+\<a\>\<img src="https://i.imgur.com/LyHic3i.gif"/\>\</a\>
 
-License information will be added when the project license is finalized.
+## 👨‍💻 𝟏𝟐. 𝐀𝐔𝐓𝐇𝐎𝐑
 
-👨‍💻 Author
+\<p align="center"\> \<strong\>Phanuel Agum\</strong\> \</p\>
 
-Phanuel Agum
+\<p align="center"\> \<a href="https://github.com/phanuelagum96-collab"\> \<img src="https://img.shields.io/badge/GITHUB-@phanuelagum96--collab-181717?style=for-the-badge&logo=github" alt="GitHub"\> \</a\> \</p\>
 
-GitHub: @phanuelagum96-collab
+\<a\>\<img src="https://i.imgur.com/LyHic3i.gif"/\>\</a\>
 
-⭐ UniVault — Learn. Share. Discover.
+\<h2 align="center"\>🎓 𝐔𝐍𝐈𝐕𝐀𝐔𝐋𝐓\</h2\>
+
+\<p align="center"\> \<strong\>Learn. Share. Discover.\</strong\> \</p\>
+
+\<p align="center"\> ⭐ If you find UniVault useful, consider giving the repository a star! \</p\>
+
+\<p align="center"\> Made with ❤️ for students and the open-source community. \</p\>
+
+```
+
+```
