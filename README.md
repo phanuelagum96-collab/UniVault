@@ -350,9 +350,7 @@ Additional technical documentation is available in the `docs/` directory.
 | --- | --- |
 | `architecture.md` | 🏗️ System architecture |
 | `database_schema.md` | 🗄️ Database design |
-| `machine_learning.md` | 🧠 Machine-learning system |
-
-\<a\>\<img src="https://i.imgur.com/LyHic3i.gif"/\>\</a\>
+| `machine_learning.md` | 🧠 Machine-learning |
 
 # 🤝 𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐍𝐆
 
