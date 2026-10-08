@@ -372,72 +372,13 @@ Contributions are welcome! 🎉
 
 Please read `CONTRIBUTING.md` before contributing.
 
-\</details\>
-
-\<a\>\<img src="https://i.imgur.com/LyHic3i.gif"/\>\</a\>
-
-# 📜 𝐂𝐎𝐃𝐄 𝐎𝐅 𝐂𝐎𝐍𝐃𝐔𝐂𝐓
-
-Please read `CODE_OF_CONDUCT.md` to understand the standards expected from contributors and members of the UniVault community.
-
-\<a\>\<img src="https://i.imgur.com/LyHic3i.gif"/\>\</a\>
-
-# 🔐 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘
-
-**Never commit sensitive information to GitHub.**
-
-Do not commit:
-
-- 🔑 Passwords
-- 🔐 API keys
-- 🗄️ Database credentials
-- 🎟️ Secret tokens
-- 📄 `.env` files containing secrets
-
-Use the provided `.env.example` files as templates for local configuration.
-
-\<a\>\<img src="https://i.imgur.com/LyHic3i.gif"/\>\</a\>
-
-# 🎓 𝐀𝐂𝐀𝐃𝐄𝐌𝐈𝐂 𝐈𝐍𝐓𝐄𝐆𝐑𝐈𝐓𝐘
-
-UniVault is designed to support **learning and responsible academic collaboration**.
-
-Users should respect:
-
-- ©️ Copyright
-- 💡 Intellectual property
-- 🏛️ University policies
-- 🎓 Academic integrity
-
-> ⚠️ **Only upload educational materials that you have permission to share.**
-
-\<a\>\<img src="https://i.imgur.com/LyHic3i.gif"/\>\</a\>
-
-# 📄 𝐋𝐈𝐂𝐄𝐍𝐒𝐄
-
-UniVault is currently under development.
-
-License information will be added when the project's license is finalized.
-
-\<a\>\<img src="https://i.imgur.com/LyHic3i.gif"/\>\</a\>
 
 # 👨‍💻 𝐀𝐔𝐓𝐇𝐎𝐑
 
 ### Phanuel Agum
 
-!\[GitHub\](https://img.shields.io/badge/GITHUB-@phanuelagum96--collab-181717?style=for-the-badge&logo=github)
-
-\<a\>\<img src="https://i.imgur.com/LyHic3i.gif"/\>\</a\>
-
-\<h2 align="center"\>🎓 𝐔𝐍𝐈𝐕𝐀𝐔𝐋𝐓\</h2\>
-
-\<h3 align="center"\>Learn. Share. Discover.\</h3\>
-
-\<div align="center"\>
-
-⭐ If you find UniVault useful, consider giving the repository a star!
+ou find UniVault useful, consider giving the repository a star!
 
 Made with ❤️ for students and the open-source community.
 
-\</div\>
 
