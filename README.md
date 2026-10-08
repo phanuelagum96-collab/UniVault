@@ -356,9 +356,7 @@ Additional technical documentation is available in the `docs/` directory.
 
 Contributions are welcome! 🎉
 
-\<details\> \<summary\>𝗛𝗢𝗪 𝗧𝗢 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗘\</summary\>
-
-\<br\>
+𝗛𝗢𝗪 𝗧𝗢 𝗖𝗢𝗡𝗧𝗥𝗜𝗕𝗨𝗧𝗘
 
 1. Fork the repository
 2. Create a feature branch
