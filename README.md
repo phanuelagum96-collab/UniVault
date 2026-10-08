@@ -377,7 +377,7 @@ Please read `CONTRIBUTING.md` before contributing.
 
 ### Phanuel Agum
 
-ou find UniVault useful, consider giving the repository a star!
+If you find UniVault useful, consider giving the repository a star!
 
 Made with ❤️ for students and the open-source community.
 
